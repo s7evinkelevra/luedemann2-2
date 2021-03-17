@@ -3,6 +3,7 @@ module.exports = {
     title: "luedemann2-2",
   },
   plugins: [
+    "gatsby-plugin-postcss",
     "gatsby-plugin-image",
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-sitemap",
